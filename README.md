@@ -15,6 +15,6 @@ The utilize software used in the simulation as follow:
 - Virtualbox 5.1.30
 
 The simulation run in a machine (my laptop) with spesification as follow:
-Operation System  : Windows 10
-Processor         : Intel(R) Core i3 @ 2.40 GHz
-Memory            : 8192 MB RAM
+- Operation System  : Windows 10
+- Processor         : Intel(R) Core i3 @ 2.40 GHz
+- Memory            : 8192 MB RAM
