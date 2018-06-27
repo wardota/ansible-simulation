@@ -21,14 +21,4 @@ The simulation run in a machine (my laptop) with spesification as follow:
 
 and topology
 
-Control Node ──┤Router├── Internet
-                ┬ ┬ ┬
-                │ │ └── Internet
-                │ └
-                └
-├── bootstrap.css
-│  
-                  ├── 
-
-
 
