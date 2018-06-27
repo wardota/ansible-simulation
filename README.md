@@ -1,7 +1,7 @@
 # Ansible-Simulation-Simple-Practice
 
   A simple practice to simulate Ansible as the automation tool to setup, manage, 
-and control any device in the praticular network 
+and control any device in the particular network 
 
 It is practicing the configuration of automation tools 'Ansible' in a 
 simulation environment as my own internship project. The target 
