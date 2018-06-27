@@ -1,6 +1,6 @@
-# Ansible-Simulation
+# Ansible-Simulation-Simple
 
-  A project to simulate Ansible as the automation tool to setup, manage, 
+  A simple project to simulate Ansible as the automation tool to setup, manage, 
 and control any device in the praticular network 
 
 Project type is practicing the configuration of automation tools 'Ansible' in a 
